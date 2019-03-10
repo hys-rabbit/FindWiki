@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+body {
+    padding: 10px 0;
+}
+
+h1 {
+    font-weight: bold;
+    padding: 0.5em;
+    color: #1565c0;
+}
+
+input[type=text] {
+    width: 300px;
+}
+
+button[type=button] {
+    background-color: #e1f5fe;
+    padding: 0 10px;
+}
+
+table tr th {
+    background: #e1f5fe; 
+}
+
+div.input {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+div.input img {
+    height: 18px;
+}
